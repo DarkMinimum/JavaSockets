@@ -1,0 +1,182 @@
+2021-05-16 16:19:49 INFO  Program: - Rect
+2021-05-16 16:19:49 INFO  Program: - x 82.0
+2021-05-16 16:19:49 INFO  Program: - y 103.0
+2021-05-16 16:19:49 INFO  Program: - width 207.0
+2021-05-16 16:19:49 INFO  Program: - height 80.0
+2021-05-16 16:19:49 INFO  Program: - Rect
+2021-05-16 16:19:49 INFO  Program: - x 458.0
+2021-05-16 16:19:49 INFO  Program: - y 76.0
+2021-05-16 16:19:49 INFO  Program: - width 30.0
+2021-05-16 16:19:49 INFO  Program: - height 198.0
+2021-05-16 16:19:50 INFO  Program: - Rect
+2021-05-16 16:19:50 INFO  Program: - x 119.0
+2021-05-16 16:19:50 INFO  Program: - y 267.0
+2021-05-16 16:19:50 INFO  Program: - width 250.0
+2021-05-16 16:19:50 INFO  Program: - height 30.0
+2021-05-16 16:19:51 INFO  Program: - Rect
+2021-05-16 16:19:51 INFO  Program: - x 346.0
+2021-05-16 16:19:51 INFO  Program: - y 66.0
+2021-05-16 16:19:51 INFO  Program: - width 16.0
+2021-05-16 16:19:51 INFO  Program: - height 119.0
+2021-05-16 16:19:53 INFO  Program: - Rect
+2021-05-16 16:19:53 INFO  Program: - x 65.0
+2021-05-16 16:19:53 INFO  Program: - y 31.0
+2021-05-16 16:19:53 INFO  Program: - width 235.0
+2021-05-16 16:19:53 INFO  Program: - height 118.0
+2021-05-16 16:19:53 INFO  Program: - Rect
+2021-05-16 16:19:53 INFO  Program: - x 361.0
+2021-05-16 16:19:53 INFO  Program: - y 96.0
+2021-05-16 16:19:53 INFO  Program: - width 213.0
+2021-05-16 16:19:53 INFO  Program: - height 185.0
+2021-05-16 16:19:54 INFO  Program: - Rect
+2021-05-16 16:19:54 INFO  Program: - x 105.0
+2021-05-16 16:19:54 INFO  Program: - y 229.0
+2021-05-16 16:19:54 INFO  Program: - width 168.0
+2021-05-16 16:19:54 INFO  Program: - height 65.0
+2021-05-16 16:19:56 INFO  Program: - Rect
+2021-05-16 16:19:56 INFO  Program: - x 486.0
+2021-05-16 16:19:56 INFO  Program: - y 30.0
+2021-05-16 16:19:56 INFO  Program: - width 172.0
+2021-05-16 16:19:56 INFO  Program: - height 40.0
+2021-05-16 16:19:56 INFO  Program: - Rect
+2021-05-16 16:19:56 INFO  Program: - x 628.0
+2021-05-16 16:19:56 INFO  Program: - y 159.0
+2021-05-16 16:19:56 INFO  Program: - width 20.0
+2021-05-16 16:19:56 INFO  Program: - height 190.0
+2021-05-16 16:19:57 INFO  Program: - Rect
+2021-05-16 16:19:57 INFO  Program: - x 328.0
+2021-05-16 16:19:57 INFO  Program: - y 310.0
+2021-05-16 16:19:57 INFO  Program: - width 117.0
+2021-05-16 16:19:57 INFO  Program: - height 26.0
+2021-05-16 16:19:57 INFO  Program: - Rect
+2021-05-16 16:19:57 INFO  Program: - x 61.0
+2021-05-16 16:19:57 INFO  Program: - y 184.0
+2021-05-16 16:19:57 INFO  Program: - width 136.0
+2021-05-16 16:19:57 INFO  Program: - height 11.0
+2021-05-16 16:19:58 INFO  Program: - Rect
+2021-05-16 16:19:58 INFO  Program: - x 24.0
+2021-05-16 16:19:58 INFO  Program: - y 226.0
+2021-05-16 16:19:58 INFO  Program: - width 21.0
+2021-05-16 16:19:58 INFO  Program: - height 61.0
+2021-05-16 16:20:01 INFO  Program: - Ellipse
+2021-05-16 16:20:01 INFO  Program: - centerX 33.0
+2021-05-16 16:20:01 INFO  Program: - centerY 65.0
+2021-05-16 16:20:01 INFO  Program: - xRadius 147.0
+2021-05-16 16:20:01 INFO  Program: - yRadius 48.0
+2021-05-16 16:20:01 INFO  Program: - Ellipse
+2021-05-16 16:20:01 INFO  Program: - centerX 422.0
+2021-05-16 16:20:01 INFO  Program: - centerY 138.0
+2021-05-16 16:20:01 INFO  Program: - xRadius 155.0
+2021-05-16 16:20:01 INFO  Program: - yRadius 75.0
+2021-05-16 16:20:02 INFO  Program: - Ellipse
+2021-05-16 16:20:02 INFO  Program: - centerX 109.0
+2021-05-16 16:20:02 INFO  Program: - centerY 251.0
+2021-05-16 16:20:02 INFO  Program: - xRadius 138.0
+2021-05-16 16:20:02 INFO  Program: - yRadius 44.0
+2021-05-16 16:20:04 INFO  Program: - Line
+2021-05-16 16:20:04 INFO  Program: - x1 227.0
+2021-05-16 16:20:04 INFO  Program: - y1 30.0
+2021-05-16 16:20:04 INFO  Program: - x2 225.0
+2021-05-16 16:20:04 INFO  Program: - y2 180.0
+2021-05-16 16:20:05 INFO  Program: - Line
+2021-05-16 16:20:05 INFO  Program: - x1 329.0
+2021-05-16 16:20:05 INFO  Program: - y1 49.0
+2021-05-16 16:20:05 INFO  Program: - x2 311.0
+2021-05-16 16:20:05 INFO  Program: - y2 229.0
+2021-05-16 16:20:05 INFO  Program: - Line
+2021-05-16 16:20:05 INFO  Program: - x1 413.0
+2021-05-16 16:20:05 INFO  Program: - y1 77.0
+2021-05-16 16:20:05 INFO  Program: - x2 382.0
+2021-05-16 16:20:05 INFO  Program: - y2 273.0
+2021-05-16 16:20:06 INFO  Program: - Line
+2021-05-16 16:20:06 INFO  Program: - x1 584.0
+2021-05-16 16:20:06 INFO  Program: - y1 74.0
+2021-05-16 16:20:06 INFO  Program: - x2 484.0
+2021-05-16 16:20:06 INFO  Program: - y2 285.0
+2021-05-16 16:20:06 INFO  Program: - Line
+2021-05-16 16:20:06 INFO  Program: - x1 552.0
+2021-05-16 16:20:06 INFO  Program: - y1 248.0
+2021-05-16 16:20:06 INFO  Program: - x2 148.0
+2021-05-16 16:20:06 INFO  Program: - y2 290.0
+2021-05-16 16:20:06 INFO  Program: - Line
+2021-05-16 16:20:06 INFO  Program: - x1 290.0
+2021-05-16 16:20:06 INFO  Program: - y1 227.0
+2021-05-16 16:20:06 INFO  Program: - x2 77.0
+2021-05-16 16:20:06 INFO  Program: - y2 157.0
+2021-05-16 16:20:07 INFO  Program: - Line
+2021-05-16 16:20:07 INFO  Program: - x1 172.0
+2021-05-16 16:20:07 INFO  Program: - y1 106.0
+2021-05-16 16:20:07 INFO  Program: - x2 569.0
+2021-05-16 16:20:07 INFO  Program: - y2 122.0
+2021-05-16 16:20:07 INFO  Program: - Line
+2021-05-16 16:20:07 INFO  Program: - x1 372.0
+2021-05-16 16:20:07 INFO  Program: - y1 60.0
+2021-05-16 16:20:07 INFO  Program: - x2 106.0
+2021-05-16 16:20:07 INFO  Program: - y2 85.0
+2021-05-16 16:20:08 INFO  Program: - Line
+2021-05-16 16:20:08 INFO  Program: - x1 163.0
+2021-05-16 16:20:08 INFO  Program: - y1 171.0
+2021-05-16 16:20:08 INFO  Program: - x2 469.0
+2021-05-16 16:20:08 INFO  Program: - y2 240.0
+2021-05-16 16:20:08 INFO  Program: - Line
+2021-05-16 16:20:08 INFO  Program: - x1 482.0
+2021-05-16 16:20:08 INFO  Program: - y1 139.0
+2021-05-16 16:20:08 INFO  Program: - x2 340.0
+2021-05-16 16:20:08 INFO  Program: - y2 167.0
+2021-05-16 16:20:12 INFO  Program: - Sending figures information to the server
+2021-05-16 16:20:14 ERROR Program: - Failed to send figures info
+2021-05-16 16:20:16 ERROR Program: - java.lang.NullPointerException: Cannot invoke "java.io.File.getAbsolutePath()" because "file" is null
+2021-05-16 16:31:27 INFO  Program: - Rect
+2021-05-16 16:31:27 INFO  Program: - x 32.0
+2021-05-16 16:31:27 INFO  Program: - y 9.0
+2021-05-16 16:31:27 INFO  Program: - width 549.0
+2021-05-16 16:31:27 INFO  Program: - height 270.0
+2021-05-16 16:31:31 INFO  Program: - Rect
+2021-05-16 16:31:31 INFO  Program: - x 206.0
+2021-05-16 16:31:31 INFO  Program: - y 86.0
+2021-05-16 16:31:31 INFO  Program: - width 427.0
+2021-05-16 16:31:31 INFO  Program: - height 228.0
+2021-05-16 16:31:36 INFO  Program: - Ellipse
+2021-05-16 16:31:36 INFO  Program: - centerX 101.0
+2021-05-16 16:31:36 INFO  Program: - centerY 43.0
+2021-05-16 16:31:36 INFO  Program: - xRadius 239.0
+2021-05-16 16:31:36 INFO  Program: - yRadius 132.0
+2021-05-16 16:31:40 INFO  Program: - Line
+2021-05-16 16:31:40 INFO  Program: - x1 123.0
+2021-05-16 16:31:40 INFO  Program: - y1 225.0
+2021-05-16 16:31:40 INFO  Program: - x2 457.0
+2021-05-16 16:31:40 INFO  Program: - y2 234.0
+2021-05-16 16:31:44 INFO  Program: - Sending figures information to the server
+2021-05-16 16:31:44 INFO  Program: - Count of object: 4
+2021-05-16 16:31:44 INFO  Program: - R	32.09.0549.0270.00x00ffffff
+2021-05-16 16:31:44 INFO  Program: - 	 - 32
+2021-05-16 16:31:44 INFO  Program: - 	 - 9
+2021-05-16 16:31:44 INFO  Program: - 	 - 549
+2021-05-16 16:31:44 INFO  Program: - 	 - 270
+2021-05-16 16:31:44 INFO  Program: - R	206.086.0427.0228.00xb3e6e6ff
+2021-05-16 16:31:44 INFO  Program: - 	 - 206
+2021-05-16 16:31:44 INFO  Program: - 	 - 86
+2021-05-16 16:31:44 INFO  Program: - 	 - 427
+2021-05-16 16:31:44 INFO  Program: - 	 - 228
+2021-05-16 16:31:44 INFO  Program: - E	101.043.0239.0132.00xe64d4dff
+2021-05-16 16:31:44 INFO  Program: - 	 - 101
+2021-05-16 16:31:44 INFO  Program: - 	 - 43
+2021-05-16 16:31:44 INFO  Program: - 	 - 239
+2021-05-16 16:31:44 INFO  Program: - 	 - 132
+2021-05-16 16:31:44 INFO  Program: - L	123.0225.0457.0234.00xccffffff
+2021-05-16 16:31:44 INFO  Program: - 	 - 123
+2021-05-16 16:31:44 INFO  Program: - 	 - 225
+2021-05-16 16:31:44 INFO  Program: - 	 - 457
+2021-05-16 16:31:44 INFO  Program: - 	 - 234
+2021-05-16 16:31:56 INFO  Program: - Ellipse
+2021-05-16 16:31:56 INFO  Program: - centerX 96.0
+2021-05-16 16:31:56 INFO  Program: - centerY 68.0
+2021-05-16 16:31:56 INFO  Program: - xRadius 59.0
+2021-05-16 16:31:56 INFO  Program: - yRadius 59.0
+2021-05-16 16:32:00 INFO  Program: - Sending figures information to the server
+2021-05-16 16:32:00 INFO  Program: - Count of object: 1
+2021-05-16 16:32:00 INFO  Program: - E	96.068.059.059.00xff0000ff
+2021-05-16 16:32:00 INFO  Program: - 	 - 96
+2021-05-16 16:32:00 INFO  Program: - 	 - 68
+2021-05-16 16:32:00 INFO  Program: - 	 - 59
+2021-05-16 16:32:00 INFO  Program: - 	 - 59

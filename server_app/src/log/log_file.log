@@ -1,0 +1,718 @@
+2021-05-13 16:08:14 INFO  Program: - Rect
+2021-05-13 16:08:14 INFO  Program: - x 51.0
+2021-05-13 16:08:14 INFO  Program: - y 38.0
+2021-05-13 16:08:14 INFO  Program: - width 186.0
+2021-05-13 16:08:14 INFO  Program: - height 133.0
+2021-05-13 16:08:16 INFO  Program: - Ellipse
+2021-05-13 16:08:16 INFO  Program: - centerX 331.0
+2021-05-13 16:08:16 INFO  Program: - centerY 89.0
+2021-05-13 16:08:16 INFO  Program: - xRadius 96.0
+2021-05-13 16:08:16 INFO  Program: - yRadius 96.0
+2021-05-13 16:08:18 INFO  Program: - Line
+2021-05-13 16:08:18 INFO  Program: - x1 177.0
+2021-05-13 16:08:18 INFO  Program: - y1 83.0
+2021-05-13 16:08:18 INFO  Program: - x2 502.0
+2021-05-13 16:08:18 INFO  Program: - y2 120.0
+2021-05-13 16:08:20 INFO  Program: - Line
+2021-05-13 16:08:20 INFO  Program: - x1 144.0
+2021-05-13 16:08:20 INFO  Program: - y1 237.0
+2021-05-13 16:08:20 INFO  Program: - x2 508.0
+2021-05-13 16:08:20 INFO  Program: - y2 286.0
+2021-05-13 16:08:24 INFO  Program: - Ellipse
+2021-05-13 16:08:24 INFO  Program: - centerX 597.0
+2021-05-13 16:08:24 INFO  Program: - centerY 51.0
+2021-05-13 16:08:24 INFO  Program: - xRadius 58.0
+2021-05-13 16:08:24 INFO  Program: - yRadius 122.0
+2021-05-13 16:08:24 INFO  Program: - Ellipse
+2021-05-13 16:08:24 INFO  Program: - centerX 377.0
+2021-05-13 16:08:24 INFO  Program: - centerY 205.0
+2021-05-13 16:08:24 INFO  Program: - xRadius 216.0
+2021-05-13 16:08:24 INFO  Program: - yRadius 46.0
+2021-05-13 16:08:25 INFO  Program: - Ellipse
+2021-05-13 16:08:25 INFO  Program: - centerX 77.0
+2021-05-13 16:08:25 INFO  Program: - centerY 229.0
+2021-05-13 16:08:25 INFO  Program: - xRadius 161.0
+2021-05-13 16:08:25 INFO  Program: - yRadius 52.0
+2021-05-13 16:08:26 INFO  Program: - Ellipse
+2021-05-13 16:08:26 INFO  Program: - centerX 297.0
+2021-05-13 16:08:26 INFO  Program: - centerY 232.0
+2021-05-13 16:08:26 INFO  Program: - xRadius 63.0
+2021-05-13 16:08:26 INFO  Program: - yRadius 68.0
+2021-05-13 16:08:27 INFO  Program: - Ellipse
+2021-05-13 16:08:27 INFO  Program: - centerX 457.0
+2021-05-13 16:08:27 INFO  Program: - centerY 20.0
+2021-05-13 16:08:27 INFO  Program: - xRadius 105.0
+2021-05-13 16:08:27 INFO  Program: - yRadius 110.0
+2021-05-13 16:08:28 INFO  Program: - Ellipse
+2021-05-13 16:08:28 INFO  Program: - centerX 395.0
+2021-05-13 16:08:28 INFO  Program: - centerY 101.0
+2021-05-13 16:08:28 INFO  Program: - xRadius 83.0
+2021-05-13 16:08:28 INFO  Program: - yRadius 83.0
+2021-05-13 16:08:29 INFO  Program: - Ellipse
+2021-05-13 16:08:29 INFO  Program: - centerX 278.0
+2021-05-13 16:08:29 INFO  Program: - centerY 64.0
+2021-05-13 16:08:29 INFO  Program: - xRadius 67.0
+2021-05-13 16:08:29 INFO  Program: - yRadius 67.0
+2021-05-13 16:08:29 INFO  Program: - Ellipse
+2021-05-13 16:08:29 INFO  Program: - centerX 99.0
+2021-05-13 16:08:29 INFO  Program: - centerY 152.0
+2021-05-13 16:08:29 INFO  Program: - xRadius 126.0
+2021-05-13 16:08:29 INFO  Program: - yRadius 126.0
+2021-05-13 16:08:30 INFO  Program: - Ellipse
+2021-05-13 16:08:30 INFO  Program: - centerX 69.0
+2021-05-13 16:08:30 INFO  Program: - centerY 65.0
+2021-05-13 16:08:30 INFO  Program: - xRadius 259.0
+2021-05-13 16:08:30 INFO  Program: - yRadius 259.0
+2021-05-13 16:08:30 INFO  Program: - Ellipse
+2021-05-13 16:08:30 INFO  Program: - centerX 266.0
+2021-05-13 16:08:30 INFO  Program: - centerY 130.0
+2021-05-13 16:08:30 INFO  Program: - xRadius 176.0
+2021-05-13 16:08:30 INFO  Program: - yRadius 176.0
+2021-05-13 16:08:31 INFO  Program: - Ellipse
+2021-05-13 16:08:31 INFO  Program: - centerX 23.0
+2021-05-13 16:08:31 INFO  Program: - centerY 5.0
+2021-05-13 16:08:31 INFO  Program: - xRadius 280.0
+2021-05-13 16:08:31 INFO  Program: - yRadius 280.0
+2021-05-13 16:08:31 INFO  Program: - Ellipse
+2021-05-13 16:08:31 INFO  Program: - centerX 441.0
+2021-05-13 16:08:31 INFO  Program: - centerY 173.0
+2021-05-13 16:08:31 INFO  Program: - xRadius 139.0
+2021-05-13 16:08:31 INFO  Program: - yRadius 139.0
+2021-05-13 16:08:32 INFO  Program: - Ellipse
+2021-05-13 16:08:32 INFO  Program: - centerX 296.0
+2021-05-13 16:08:32 INFO  Program: - centerY 77.0
+2021-05-13 16:08:32 INFO  Program: - xRadius 252.0
+2021-05-13 16:08:32 INFO  Program: - yRadius 252.0
+2021-05-13 16:08:33 INFO  Program: - Rect
+2021-05-13 16:08:33 INFO  Program: - x 101.0
+2021-05-13 16:08:33 INFO  Program: - y 109.0
+2021-05-13 16:08:33 INFO  Program: - width 262.0
+2021-05-13 16:08:33 INFO  Program: - height 57.0
+2021-05-13 16:08:35 INFO  Program: - Rect
+2021-05-13 16:08:35 INFO  Program: - x 90.0
+2021-05-13 16:08:35 INFO  Program: - y 106.0
+2021-05-13 16:08:35 INFO  Program: - width 179.0
+2021-05-13 16:08:35 INFO  Program: - height 63.0
+2021-05-13 16:08:35 INFO  Program: - Rect
+2021-05-13 16:08:35 INFO  Program: - x 375.0
+2021-05-13 16:08:35 INFO  Program: - y 215.0
+2021-05-13 16:08:35 INFO  Program: - width 92.0
+2021-05-13 16:08:35 INFO  Program: - height 27.0
+2021-05-13 16:08:36 INFO  Program: - Rect
+2021-05-13 16:08:36 INFO  Program: - x 221.0
+2021-05-13 16:08:36 INFO  Program: - y 225.0
+2021-05-13 16:08:36 INFO  Program: - width 74.0
+2021-05-13 16:08:36 INFO  Program: - height 7.0
+2021-05-13 16:08:37 INFO  Program: - Rect
+2021-05-13 16:08:37 INFO  Program: - x 486.0
+2021-05-13 16:08:37 INFO  Program: - y 61.0
+2021-05-13 16:08:37 INFO  Program: - width 87.0
+2021-05-13 16:08:37 INFO  Program: - height 30.0
+2021-05-13 16:08:37 INFO  Program: - Rect
+2021-05-13 16:08:37 INFO  Program: - x 317.0
+2021-05-13 16:08:37 INFO  Program: - y 18.0
+2021-05-13 16:08:37 INFO  Program: - width 124.0
+2021-05-13 16:08:37 INFO  Program: - height 77.0
+2021-05-13 16:08:38 INFO  Program: - Rect
+2021-05-13 16:08:38 INFO  Program: - x 538.0
+2021-05-13 16:08:38 INFO  Program: - y 157.0
+2021-05-13 16:08:38 INFO  Program: - width 114.0
+2021-05-13 16:08:38 INFO  Program: - height 116.0
+2021-05-13 16:08:42 INFO  Program: - Ellipse
+2021-05-13 16:08:42 INFO  Program: - centerX 45.0
+2021-05-13 16:08:42 INFO  Program: - centerY 32.0
+2021-05-13 16:08:42 INFO  Program: - xRadius 35.0
+2021-05-13 16:08:42 INFO  Program: - yRadius 35.0
+2021-05-13 16:08:43 INFO  Program: - Ellipse
+2021-05-13 16:08:43 INFO  Program: - centerX 205.0
+2021-05-13 16:08:43 INFO  Program: - centerY 148.0
+2021-05-13 16:08:43 INFO  Program: - xRadius 107.0
+2021-05-13 16:08:43 INFO  Program: - yRadius 107.0
+2021-05-13 16:08:43 INFO  Program: - Ellipse
+2021-05-13 16:08:43 INFO  Program: - centerX 457.0
+2021-05-13 16:08:43 INFO  Program: - centerY 45.0
+2021-05-13 16:08:43 INFO  Program: - xRadius 32.0
+2021-05-13 16:08:43 INFO  Program: - yRadius 32.0
+2021-05-13 16:08:44 INFO  Program: - Ellipse
+2021-05-13 16:08:44 INFO  Program: - centerX 529.0
+2021-05-13 16:08:44 INFO  Program: - centerY 249.0
+2021-05-13 16:08:44 INFO  Program: - xRadius 30.0
+2021-05-13 16:08:44 INFO  Program: - yRadius 30.0
+2021-05-13 16:08:44 INFO  Program: - Ellipse
+2021-05-13 16:08:44 INFO  Program: - centerX 224.0
+2021-05-13 16:08:44 INFO  Program: - centerY 55.0
+2021-05-13 16:08:44 INFO  Program: - xRadius 20.0
+2021-05-13 16:08:44 INFO  Program: - yRadius 20.0
+2021-05-13 16:08:45 INFO  Program: - Ellipse
+2021-05-13 16:08:45 INFO  Program: - centerX 49.0
+2021-05-13 16:08:45 INFO  Program: - centerY 207.0
+2021-05-13 16:08:45 INFO  Program: - xRadius 38.0
+2021-05-13 16:08:45 INFO  Program: - yRadius 38.0
+2021-05-13 16:08:46 INFO  Program: - Ellipse
+2021-05-13 16:08:46 INFO  Program: - centerX 612.0
+2021-05-13 16:08:46 INFO  Program: - centerY 67.0
+2021-05-13 16:08:46 INFO  Program: - xRadius 8.0
+2021-05-13 16:08:46 INFO  Program: - yRadius 8.0
+2021-05-13 16:08:46 INFO  Program: - Ellipse
+2021-05-13 16:08:46 INFO  Program: - centerX 394.0
+2021-05-13 16:08:46 INFO  Program: - centerY 172.0
+2021-05-13 16:08:46 INFO  Program: - xRadius 58.0
+2021-05-13 16:08:46 INFO  Program: - yRadius 58.0
+2021-05-13 16:08:47 INFO  Program: - Ellipse
+2021-05-13 16:08:47 INFO  Program: - centerX 551.0
+2021-05-13 16:08:47 INFO  Program: - centerY 140.0
+2021-05-13 16:08:47 INFO  Program: - xRadius 55.0
+2021-05-13 16:08:47 INFO  Program: - yRadius 55.0
+2021-05-13 16:08:49 INFO  Program: - Rect
+2021-05-13 16:08:49 INFO  Program: - x 53.0
+2021-05-13 16:08:49 INFO  Program: - y 113.0
+2021-05-13 16:08:49 INFO  Program: - width 10.0
+2021-05-13 16:08:49 INFO  Program: - height 10.0
+2021-05-13 16:08:49 INFO  Program: - Rect
+2021-05-13 16:08:49 INFO  Program: - x 149.0
+2021-05-13 16:08:49 INFO  Program: - y 206.0
+2021-05-13 16:08:49 INFO  Program: - width 11.0
+2021-05-13 16:08:49 INFO  Program: - height 11.0
+2021-05-13 16:08:50 INFO  Program: - Rect
+2021-05-13 16:08:50 INFO  Program: - x 282.0
+2021-05-13 16:08:50 INFO  Program: - y 98.0
+2021-05-13 16:08:50 INFO  Program: - width 12.0
+2021-05-13 16:08:50 INFO  Program: - height 12.0
+2021-05-13 16:08:50 INFO  Program: - Rect
+2021-05-13 16:08:50 INFO  Program: - x 391.0
+2021-05-13 16:08:50 INFO  Program: - y 101.0
+2021-05-13 16:08:50 INFO  Program: - width 2.0
+2021-05-13 16:08:50 INFO  Program: - height 2.0
+2021-05-13 16:08:51 INFO  Program: - Rect
+2021-05-13 16:08:51 INFO  Program: - x 500.0
+2021-05-13 16:08:51 INFO  Program: - y 206.0
+2021-05-13 16:08:51 INFO  Program: - width 47.0
+2021-05-13 16:08:51 INFO  Program: - height 47.0
+2021-05-13 16:08:53 INFO  Program: - Rect
+2021-05-13 16:08:53 INFO  Program: - x 520.0
+2021-05-13 16:08:53 INFO  Program: - y 55.0
+2021-05-13 16:08:53 INFO  Program: - width 2.0
+2021-05-13 16:08:53 INFO  Program: - height 2.0
+2021-05-13 16:08:54 INFO  Program: - Rect
+2021-05-13 16:08:54 INFO  Program: - x 619.0
+2021-05-13 16:08:54 INFO  Program: - y 249.0
+2021-05-13 16:08:54 INFO  Program: - width 5.0
+2021-05-13 16:08:54 INFO  Program: - height 5.0
+2021-05-13 16:08:55 INFO  Program: - Rect
+2021-05-13 16:08:55 INFO  Program: - x 351.0
+2021-05-13 16:08:55 INFO  Program: - y 64.0
+2021-05-13 16:08:55 INFO  Program: - width 8.0
+2021-05-13 16:08:55 INFO  Program: - height 8.0
+2021-05-13 16:08:55 INFO  Program: - Rect
+2021-05-13 16:08:55 INFO  Program: - x 328.0
+2021-05-13 16:08:55 INFO  Program: - y 269.0
+2021-05-13 16:08:55 INFO  Program: - width 113.0
+2021-05-13 16:08:55 INFO  Program: - height 113.0
+2021-05-13 16:08:56 INFO  Program: - Rect
+2021-05-13 16:08:56 INFO  Program: - x 374.0
+2021-05-13 16:08:56 INFO  Program: - y 92.0
+2021-05-13 16:08:56 INFO  Program: - width 61.0
+2021-05-13 16:08:56 INFO  Program: - height 61.0
+2021-05-13 16:09:00 INFO  Program: - Rect
+2021-05-13 16:09:00 INFO  Program: - x 121.0
+2021-05-13 16:09:00 INFO  Program: - y 88.0
+2021-05-13 16:09:00 INFO  Program: - width 6.0
+2021-05-13 16:09:00 INFO  Program: - height 6.0
+2021-05-13 16:09:00 INFO  Program: - Rect
+2021-05-13 16:09:00 INFO  Program: - x 171.0
+2021-05-13 16:09:00 INFO  Program: - y 105.0
+2021-05-13 16:09:00 INFO  Program: - width 43.0
+2021-05-13 16:09:00 INFO  Program: - height 43.0
+2021-05-13 16:09:01 INFO  Program: - Rect
+2021-05-13 16:09:01 INFO  Program: - x 299.0
+2021-05-13 16:09:01 INFO  Program: - y 44.0
+2021-05-13 16:09:01 INFO  Program: - width 11.0
+2021-05-13 16:09:01 INFO  Program: - height 11.0
+2021-05-13 16:09:02 INFO  Program: - Rect
+2021-05-13 16:09:02 INFO  Program: - x 143.0
+2021-05-13 16:09:02 INFO  Program: - y 287.0
+2021-05-13 16:09:02 INFO  Program: - width 99.0
+2021-05-13 16:09:02 INFO  Program: - height 99.0
+2021-05-13 16:09:03 INFO  Program: - Rect
+2021-05-13 16:09:03 INFO  Program: - x 504.0
+2021-05-13 16:09:03 INFO  Program: - y 109.0
+2021-05-13 16:09:03 INFO  Program: - width 3.0
+2021-05-13 16:09:03 INFO  Program: - height 3.0
+2021-05-13 16:09:04 INFO  Program: - Rect
+2021-05-13 16:09:04 INFO  Program: - x 613.0
+2021-05-13 16:09:04 INFO  Program: - y 314.0
+2021-05-13 16:09:04 INFO  Program: - width 87.0
+2021-05-13 16:09:04 INFO  Program: - height 87.0
+2021-05-13 16:09:05 INFO  Program: - Rect
+2021-05-13 16:09:05 INFO  Program: - x 479.0
+2021-05-13 16:09:05 INFO  Program: - y 323.0
+2021-05-13 16:09:05 INFO  Program: - width 54.0
+2021-05-13 16:09:05 INFO  Program: - height 54.0
+2021-05-13 16:09:06 INFO  Program: - Rect
+2021-05-13 16:09:06 INFO  Program: - x 272.0
+2021-05-13 16:09:06 INFO  Program: - y 319.0
+2021-05-13 16:09:06 INFO  Program: - width 1.0
+2021-05-13 16:09:06 INFO  Program: - height 1.0
+2021-05-13 16:09:07 INFO  Program: - Rect
+2021-05-13 16:09:07 INFO  Program: - x -68.0
+2021-05-13 16:09:07 INFO  Program: - y 269.0
+2021-05-13 16:09:07 INFO  Program: - width 91.0
+2021-05-13 16:09:07 INFO  Program: - height 91.0
+2021-05-13 16:09:13 INFO  Program: - Line
+2021-05-13 16:09:13 INFO  Program: - x1 86.0
+2021-05-13 16:09:13 INFO  Program: - y1 278.0
+2021-05-13 16:09:13 INFO  Program: - x2 239.0
+2021-05-13 16:09:13 INFO  Program: - y2 184.0
+2021-05-13 16:09:14 INFO  Program: - Line
+2021-05-13 16:09:14 INFO  Program: - x1 249.0
+2021-05-13 16:09:14 INFO  Program: - y1 275.0
+2021-05-13 16:09:14 INFO  Program: - x2 488.0
+2021-05-13 16:09:14 INFO  Program: - y2 190.0
+2021-05-13 16:09:15 INFO  Program: - Line
+2021-05-13 16:09:15 INFO  Program: - x1 128.0
+2021-05-13 16:09:15 INFO  Program: - y1 133.0
+2021-05-13 16:09:15 INFO  Program: - x2 241.0
+2021-05-13 16:09:15 INFO  Program: - y2 68.0
+2021-05-13 16:09:15 INFO  Program: - Line
+2021-05-13 16:09:15 INFO  Program: - x1 297.0
+2021-05-13 16:09:15 INFO  Program: - y1 154.0
+2021-05-13 16:09:15 INFO  Program: - x2 461.0
+2021-05-13 16:09:15 INFO  Program: - y2 81.0
+2021-05-13 16:09:16 INFO  Program: - Line
+2021-05-13 16:09:16 INFO  Program: - x1 521.0
+2021-05-13 16:09:16 INFO  Program: - y1 277.0
+2021-05-13 16:09:16 INFO  Program: - x2 605.0
+2021-05-13 16:09:16 INFO  Program: - y2 229.0
+2021-05-13 16:09:17 INFO  Program: - Line
+2021-05-13 16:09:17 INFO  Program: - x1 45.0
+2021-05-13 16:09:17 INFO  Program: - y1 93.0
+2021-05-13 16:09:17 INFO  Program: - x2 146.0
+2021-05-13 16:09:17 INFO  Program: - y2 36.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 53.0
+2021-05-13 16:09:31 INFO  Program: - y 113.0
+2021-05-13 16:09:31 INFO  Program: - width 10.0
+2021-05-13 16:09:31 INFO  Program: - height 10.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 149.0
+2021-05-13 16:09:31 INFO  Program: - y 206.0
+2021-05-13 16:09:31 INFO  Program: - width 11.0
+2021-05-13 16:09:31 INFO  Program: - height 11.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 282.0
+2021-05-13 16:09:31 INFO  Program: - y 98.0
+2021-05-13 16:09:31 INFO  Program: - width 12.0
+2021-05-13 16:09:31 INFO  Program: - height 12.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 391.0
+2021-05-13 16:09:31 INFO  Program: - y 101.0
+2021-05-13 16:09:31 INFO  Program: - width 2.0
+2021-05-13 16:09:31 INFO  Program: - height 2.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 500.0
+2021-05-13 16:09:31 INFO  Program: - y 206.0
+2021-05-13 16:09:31 INFO  Program: - width 47.0
+2021-05-13 16:09:31 INFO  Program: - height 47.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 520.0
+2021-05-13 16:09:31 INFO  Program: - y 55.0
+2021-05-13 16:09:31 INFO  Program: - width 2.0
+2021-05-13 16:09:31 INFO  Program: - height 2.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 619.0
+2021-05-13 16:09:31 INFO  Program: - y 249.0
+2021-05-13 16:09:31 INFO  Program: - width 5.0
+2021-05-13 16:09:31 INFO  Program: - height 5.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 351.0
+2021-05-13 16:09:31 INFO  Program: - y 64.0
+2021-05-13 16:09:31 INFO  Program: - width 8.0
+2021-05-13 16:09:31 INFO  Program: - height 8.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 328.0
+2021-05-13 16:09:31 INFO  Program: - y 269.0
+2021-05-13 16:09:31 INFO  Program: - width 113.0
+2021-05-13 16:09:31 INFO  Program: - height 113.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 374.0
+2021-05-13 16:09:31 INFO  Program: - y 92.0
+2021-05-13 16:09:31 INFO  Program: - width 61.0
+2021-05-13 16:09:31 INFO  Program: - height 61.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 121.0
+2021-05-13 16:09:31 INFO  Program: - y 88.0
+2021-05-13 16:09:31 INFO  Program: - width 6.0
+2021-05-13 16:09:31 INFO  Program: - height 6.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 171.0
+2021-05-13 16:09:31 INFO  Program: - y 105.0
+2021-05-13 16:09:31 INFO  Program: - width 43.0
+2021-05-13 16:09:31 INFO  Program: - height 43.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 299.0
+2021-05-13 16:09:31 INFO  Program: - y 44.0
+2021-05-13 16:09:31 INFO  Program: - width 11.0
+2021-05-13 16:09:31 INFO  Program: - height 11.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 143.0
+2021-05-13 16:09:31 INFO  Program: - y 287.0
+2021-05-13 16:09:31 INFO  Program: - width 99.0
+2021-05-13 16:09:31 INFO  Program: - height 99.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 504.0
+2021-05-13 16:09:31 INFO  Program: - y 109.0
+2021-05-13 16:09:31 INFO  Program: - width 3.0
+2021-05-13 16:09:31 INFO  Program: - height 3.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 613.0
+2021-05-13 16:09:31 INFO  Program: - y 314.0
+2021-05-13 16:09:31 INFO  Program: - width 87.0
+2021-05-13 16:09:31 INFO  Program: - height 87.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 479.0
+2021-05-13 16:09:31 INFO  Program: - y 323.0
+2021-05-13 16:09:31 INFO  Program: - width 54.0
+2021-05-13 16:09:31 INFO  Program: - height 54.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x 272.0
+2021-05-13 16:09:31 INFO  Program: - y 319.0
+2021-05-13 16:09:31 INFO  Program: - width 1.0
+2021-05-13 16:09:31 INFO  Program: - height 1.0
+2021-05-13 16:09:31 INFO  Program: - Rect
+2021-05-13 16:09:31 INFO  Program: - x -68.0
+2021-05-13 16:09:31 INFO  Program: - y 269.0
+2021-05-13 16:09:31 INFO  Program: - width 91.0
+2021-05-13 16:09:31 INFO  Program: - height 91.0
+2021-05-13 16:09:31 INFO  Program: - Line
+2021-05-13 16:09:31 INFO  Program: - x1 86.0
+2021-05-13 16:09:31 INFO  Program: - y1 278.0
+2021-05-13 16:09:31 INFO  Program: - x2 239.0
+2021-05-13 16:09:31 INFO  Program: - y2 184.0
+2021-05-13 16:09:31 INFO  Program: - Line
+2021-05-13 16:09:31 INFO  Program: - x1 249.0
+2021-05-13 16:09:31 INFO  Program: - y1 275.0
+2021-05-13 16:09:31 INFO  Program: - x2 488.0
+2021-05-13 16:09:31 INFO  Program: - y2 190.0
+2021-05-13 16:09:31 INFO  Program: - Line
+2021-05-13 16:09:31 INFO  Program: - x1 128.0
+2021-05-13 16:09:31 INFO  Program: - y1 133.0
+2021-05-13 16:09:31 INFO  Program: - x2 241.0
+2021-05-13 16:09:31 INFO  Program: - y2 68.0
+2021-05-13 16:09:31 INFO  Program: - Line
+2021-05-13 16:09:31 INFO  Program: - x1 297.0
+2021-05-13 16:09:31 INFO  Program: - y1 154.0
+2021-05-13 16:09:31 INFO  Program: - x2 461.0
+2021-05-13 16:09:31 INFO  Program: - y2 81.0
+2021-05-13 16:09:31 INFO  Program: - Line
+2021-05-13 16:09:31 INFO  Program: - x1 521.0
+2021-05-13 16:09:31 INFO  Program: - y1 277.0
+2021-05-13 16:09:31 INFO  Program: - x2 605.0
+2021-05-13 16:09:31 INFO  Program: - y2 229.0
+2021-05-13 16:09:31 INFO  Program: - Line
+2021-05-13 16:09:31 INFO  Program: - x1 45.0
+2021-05-13 16:09:31 INFO  Program: - y1 93.0
+2021-05-13 16:09:31 INFO  Program: - x2 146.0
+2021-05-13 16:09:31 INFO  Program: - y2 36.0
+2021-05-13 16:09:31 INFO  Program: - Ellipse
+2021-05-13 16:09:31 INFO  Program: - centerX 45.0
+2021-05-13 16:09:31 INFO  Program: - centerY 32.0
+2021-05-13 16:09:31 INFO  Program: - xRadius 35.0
+2021-05-13 16:09:31 INFO  Program: - yRadius 35.0
+2021-05-13 16:09:31 INFO  Program: - Ellipse
+2021-05-13 16:09:31 INFO  Program: - centerX 205.0
+2021-05-13 16:09:31 INFO  Program: - centerY 148.0
+2021-05-13 16:09:31 INFO  Program: - xRadius 107.0
+2021-05-13 16:09:31 INFO  Program: - yRadius 107.0
+2021-05-13 16:09:31 INFO  Program: - Ellipse
+2021-05-13 16:09:31 INFO  Program: - centerX 457.0
+2021-05-13 16:09:31 INFO  Program: - centerY 45.0
+2021-05-13 16:09:31 INFO  Program: - xRadius 32.0
+2021-05-13 16:09:31 INFO  Program: - yRadius 32.0
+2021-05-13 16:09:31 INFO  Program: - Ellipse
+2021-05-13 16:09:31 INFO  Program: - centerX 529.0
+2021-05-13 16:09:31 INFO  Program: - centerY 249.0
+2021-05-13 16:09:31 INFO  Program: - xRadius 30.0
+2021-05-13 16:09:31 INFO  Program: - yRadius 30.0
+2021-05-13 16:09:31 INFO  Program: - Ellipse
+2021-05-13 16:09:31 INFO  Program: - centerX 224.0
+2021-05-13 16:09:31 INFO  Program: - centerY 55.0
+2021-05-13 16:09:31 INFO  Program: - xRadius 20.0
+2021-05-13 16:09:31 INFO  Program: - yRadius 20.0
+2021-05-13 16:09:31 INFO  Program: - Ellipse
+2021-05-13 16:09:31 INFO  Program: - centerX 49.0
+2021-05-13 16:09:31 INFO  Program: - centerY 207.0
+2021-05-13 16:09:31 INFO  Program: - xRadius 38.0
+2021-05-13 16:09:31 INFO  Program: - yRadius 38.0
+2021-05-13 16:09:31 INFO  Program: - Ellipse
+2021-05-13 16:09:31 INFO  Program: - centerX 612.0
+2021-05-13 16:09:31 INFO  Program: - centerY 67.0
+2021-05-13 16:09:31 INFO  Program: - xRadius 8.0
+2021-05-13 16:09:31 INFO  Program: - yRadius 8.0
+2021-05-13 16:09:31 INFO  Program: - Ellipse
+2021-05-13 16:09:31 INFO  Program: - centerX 394.0
+2021-05-13 16:09:31 INFO  Program: - centerY 172.0
+2021-05-13 16:09:31 INFO  Program: - xRadius 58.0
+2021-05-13 16:09:31 INFO  Program: - yRadius 58.0
+2021-05-13 16:09:31 INFO  Program: - Ellipse
+2021-05-13 16:09:31 INFO  Program: - centerX 551.0
+2021-05-13 16:09:31 INFO  Program: - centerY 140.0
+2021-05-13 16:09:31 INFO  Program: - xRadius 55.0
+2021-05-13 16:09:31 INFO  Program: - yRadius 55.0
+2021-05-14 09:33:23 INFO  ProgramClient: - Rect
+2021-05-14 09:33:23 INFO  ProgramClient: - x 129.0
+2021-05-14 09:33:23 INFO  ProgramClient: - y 75.0
+2021-05-14 09:33:23 INFO  ProgramClient: - width 164.0
+2021-05-14 09:33:23 INFO  ProgramClient: - height 52.0
+2021-05-14 09:33:25 INFO  ProgramClient: - Rect
+2021-05-14 09:33:25 INFO  ProgramClient: - x 122.0
+2021-05-14 09:33:25 INFO  ProgramClient: - y 101.0
+2021-05-14 09:33:25 INFO  ProgramClient: - width 323.0
+2021-05-14 09:33:25 INFO  ProgramClient: - height 86.0
+2021-05-14 09:33:26 INFO  ProgramClient: - Rect
+2021-05-14 09:33:26 INFO  ProgramClient: - x 217.0
+2021-05-14 09:33:26 INFO  ProgramClient: - y 247.0
+2021-05-14 09:33:26 INFO  ProgramClient: - width 336.0
+2021-05-14 09:33:26 INFO  ProgramClient: - height 26.0
+2021-05-14 09:33:28 INFO  ProgramClient: - Rect
+2021-05-14 09:33:28 INFO  ProgramClient: - x 93.0
+2021-05-14 09:33:28 INFO  ProgramClient: - y 149.0
+2021-05-14 09:33:28 INFO  ProgramClient: - width 499.0
+2021-05-14 09:33:28 INFO  ProgramClient: - height 112.0
+2021-05-14 09:33:28 INFO  ProgramClient: - Rect
+2021-05-14 09:33:28 INFO  ProgramClient: - x 140.0
+2021-05-14 09:33:28 INFO  ProgramClient: - y 225.0
+2021-05-14 09:33:28 INFO  ProgramClient: - width 514.0
+2021-05-14 09:33:28 INFO  ProgramClient: - height 64.0
+2021-05-14 09:33:29 INFO  ProgramClient: - Rect
+2021-05-14 09:33:29 INFO  ProgramClient: - x 327.0
+2021-05-14 09:33:29 INFO  ProgramClient: - y 236.0
+2021-05-14 09:33:29 INFO  ProgramClient: - width 514.0
+2021-05-14 09:33:29 INFO  ProgramClient: - height 139.0
+2021-05-14 09:33:31 INFO  ProgramClient: - Rect
+2021-05-14 09:33:31 INFO  ProgramClient: - x -226.0
+2021-05-14 09:33:31 INFO  ProgramClient: - y 271.0
+2021-05-14 09:33:31 INFO  ProgramClient: - width 618.0
+2021-05-14 09:33:31 INFO  ProgramClient: - height 26.0
+2021-05-14 09:33:40 INFO  ProgramClient: - Rect
+2021-05-14 09:33:40 INFO  ProgramClient: - x 55.0
+2021-05-14 09:33:40 INFO  ProgramClient: - y 39.0
+2021-05-14 09:33:40 INFO  ProgramClient: - width 79.0
+2021-05-14 09:33:40 INFO  ProgramClient: - height 342.0
+2021-05-14 09:33:40 INFO  ProgramClient: - Rect
+2021-05-14 09:33:40 INFO  ProgramClient: - x 305.0
+2021-05-14 09:33:40 INFO  ProgramClient: - y 82.0
+2021-05-14 09:33:40 INFO  ProgramClient: - width 65.0
+2021-05-14 09:33:40 INFO  ProgramClient: - height 380.0
+2021-05-14 09:33:41 INFO  ProgramClient: - Rect
+2021-05-14 09:33:41 INFO  ProgramClient: - x 490.0
+2021-05-14 09:33:41 INFO  ProgramClient: - y 201.0
+2021-05-14 09:33:41 INFO  ProgramClient: - width 87.0
+2021-05-14 09:33:41 INFO  ProgramClient: - height 277.0
+2021-05-14 09:33:42 INFO  ProgramClient: - Rect
+2021-05-14 09:33:42 INFO  ProgramClient: - x 529.0
+2021-05-14 09:33:42 INFO  ProgramClient: - y 52.0
+2021-05-14 09:33:42 INFO  ProgramClient: - width 8.0
+2021-05-14 09:33:42 INFO  ProgramClient: - height 80.0
+2021-05-14 09:33:42 INFO  ProgramClient: - Rect
+2021-05-14 09:33:42 INFO  ProgramClient: - x 593.0
+2021-05-14 09:33:42 INFO  ProgramClient: - y 61.0
+2021-05-14 09:33:42 INFO  ProgramClient: - width 17.0
+2021-05-14 09:33:42 INFO  ProgramClient: - height 118.0
+2021-05-14 09:33:43 INFO  ProgramClient: - Rect
+2021-05-14 09:33:43 INFO  ProgramClient: - x 192.0
+2021-05-14 09:33:43 INFO  ProgramClient: - y 36.0
+2021-05-14 09:33:43 INFO  ProgramClient: - width 19.0
+2021-05-14 09:33:43 INFO  ProgramClient: - height 128.0
+2021-05-14 09:33:44 INFO  ProgramClient: - Rect
+2021-05-14 09:33:44 INFO  ProgramClient: - x 241.0
+2021-05-14 09:33:44 INFO  ProgramClient: - y 210.0
+2021-05-14 09:33:44 INFO  ProgramClient: - width 1.0
+2021-05-14 09:33:44 INFO  ProgramClient: - height 63.0
+2021-05-14 09:33:45 INFO  ProgramClient: - Rect
+2021-05-14 09:33:45 INFO  ProgramClient: - x 19.0
+2021-05-14 09:33:45 INFO  ProgramClient: - y 64.0
+2021-05-14 09:33:45 INFO  ProgramClient: - width 2.0
+2021-05-14 09:33:45 INFO  ProgramClient: - height 116.0
+2021-05-14 09:33:49 INFO  ProgramClient: - Rect
+2021-05-14 09:33:49 INFO  ProgramClient: - x 499.0
+2021-05-14 09:33:49 INFO  ProgramClient: - y 125.0
+2021-05-14 09:33:49 INFO  ProgramClient: - width 74.0
+2021-05-14 09:33:49 INFO  ProgramClient: - height 27.0
+2021-05-14 09:33:49 INFO  ProgramClient: - Rect
+2021-05-14 09:33:49 INFO  ProgramClient: - x 588.0
+2021-05-14 09:33:49 INFO  ProgramClient: - y 170.0
+2021-05-14 09:33:49 INFO  ProgramClient: - width 81.0
+2021-05-14 09:33:49 INFO  ProgramClient: - height 25.0
+2021-05-14 09:33:51 INFO  ProgramClient: - Rect
+2021-05-14 09:33:51 INFO  ProgramClient: - x 177.0
+2021-05-14 09:33:51 INFO  ProgramClient: - y 158.0
+2021-05-14 09:33:51 INFO  ProgramClient: - width 79.0
+2021-05-14 09:33:51 INFO  ProgramClient: - height 27.0
+2021-05-14 09:33:52 INFO  ProgramClient: - Rect
+2021-05-14 09:33:52 INFO  ProgramClient: - x 227.0
+2021-05-14 09:33:52 INFO  ProgramClient: - y 269.0
+2021-05-14 09:33:52 INFO  ProgramClient: - width 47.0
+2021-05-14 09:33:52 INFO  ProgramClient: - height 9.0
+2021-05-14 09:33:53 INFO  ProgramClient: - Rect
+2021-05-14 09:33:53 INFO  ProgramClient: - x 14.0
+2021-05-14 09:33:53 INFO  ProgramClient: - y 174.0
+2021-05-14 09:33:53 INFO  ProgramClient: - width 26.0
+2021-05-14 09:33:53 INFO  ProgramClient: - height 10.0
+2021-05-14 09:33:58 INFO  ProgramClient: - Rect
+2021-05-14 09:33:58 INFO  ProgramClient: - x 161.0
+2021-05-14 09:33:58 INFO  ProgramClient: - y 63.0
+2021-05-14 09:33:58 INFO  ProgramClient: - width 5.0
+2021-05-14 09:33:58 INFO  ProgramClient: - height 45.0
+2021-05-14 09:33:58 INFO  ProgramClient: - Rect
+2021-05-14 09:33:58 INFO  ProgramClient: - x 264.0
+2021-05-14 09:33:58 INFO  ProgramClient: - y 84.0
+2021-05-14 09:33:58 INFO  ProgramClient: - width 13.0
+2021-05-14 09:33:58 INFO  ProgramClient: - height 55.0
+2021-05-14 09:33:59 INFO  ProgramClient: - Rect
+2021-05-14 09:33:59 INFO  ProgramClient: - x 395.0
+2021-05-14 09:33:59 INFO  ProgramClient: - y 69.0
+2021-05-14 09:33:59 INFO  ProgramClient: - width 10.0
+2021-05-14 09:33:59 INFO  ProgramClient: - height 50.0
+2021-05-14 09:34:03 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:03 INFO  ProgramClient: - centerX 427.0
+2021-05-14 09:34:03 INFO  ProgramClient: - centerY 16.0
+2021-05-14 09:34:03 INFO  ProgramClient: - xRadius 116.0
+2021-05-14 09:34:03 INFO  ProgramClient: - yRadius 25.0
+2021-05-14 09:34:04 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:04 INFO  ProgramClient: - centerX 576.0
+2021-05-14 09:34:04 INFO  ProgramClient: - centerY 25.0
+2021-05-14 09:34:04 INFO  ProgramClient: - xRadius 63.0
+2021-05-14 09:34:04 INFO  ProgramClient: - yRadius 12.0
+2021-05-14 09:34:05 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:05 INFO  ProgramClient: - centerX 324.0
+2021-05-14 09:34:05 INFO  ProgramClient: - centerY 18.0
+2021-05-14 09:34:05 INFO  ProgramClient: - xRadius 43.0
+2021-05-14 09:34:05 INFO  ProgramClient: - yRadius 12.0
+2021-05-14 09:34:05 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:05 INFO  ProgramClient: - centerX 363.0
+2021-05-14 09:34:05 INFO  ProgramClient: - centerY 7.0
+2021-05-14 09:34:05 INFO  ProgramClient: - xRadius 91.0
+2021-05-14 09:34:05 INFO  ProgramClient: - yRadius 33.0
+2021-05-14 09:34:07 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:07 INFO  ProgramClient: - centerX 511.0
+2021-05-14 09:34:07 INFO  ProgramClient: - centerY 5.0
+2021-05-14 09:34:07 INFO  ProgramClient: - xRadius 59.0
+2021-05-14 09:34:07 INFO  ProgramClient: - yRadius 25.0
+2021-05-14 09:34:08 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:08 INFO  ProgramClient: - centerX 607.0
+2021-05-14 09:34:08 INFO  ProgramClient: - centerY -35.0
+2021-05-14 09:34:08 INFO  ProgramClient: - xRadius 66.0
+2021-05-14 09:34:08 INFO  ProgramClient: - yRadius 74.0
+2021-05-14 09:34:09 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:09 INFO  ProgramClient: - centerX 586.0
+2021-05-14 09:34:09 INFO  ProgramClient: - centerY 14.0
+2021-05-14 09:34:09 INFO  ProgramClient: - xRadius 105.0
+2021-05-14 09:34:09 INFO  ProgramClient: - yRadius 18.0
+2021-05-14 09:34:10 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:10 INFO  ProgramClient: - centerX 197.0
+2021-05-14 09:34:10 INFO  ProgramClient: - centerY -35.0
+2021-05-14 09:34:10 INFO  ProgramClient: - xRadius 112.0
+2021-05-14 09:34:10 INFO  ProgramClient: - yRadius 76.0
+2021-05-14 09:34:11 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:11 INFO  ProgramClient: - centerX 213.0
+2021-05-14 09:34:11 INFO  ProgramClient: - centerY -18.0
+2021-05-14 09:34:11 INFO  ProgramClient: - xRadius 142.0
+2021-05-14 09:34:11 INFO  ProgramClient: - yRadius 52.0
+2021-05-14 09:34:12 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:12 INFO  ProgramClient: - centerX 32.0
+2021-05-14 09:34:12 INFO  ProgramClient: - centerY 2.0
+2021-05-14 09:34:12 INFO  ProgramClient: - xRadius 132.0
+2021-05-14 09:34:12 INFO  ProgramClient: - yRadius 40.0
+2021-05-14 09:34:13 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:13 INFO  ProgramClient: - centerX 66.0
+2021-05-14 09:34:13 INFO  ProgramClient: - centerY -18.0
+2021-05-14 09:34:13 INFO  ProgramClient: - xRadius 129.0
+2021-05-14 09:34:13 INFO  ProgramClient: - yRadius 42.0
+2021-05-14 09:34:14 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:14 INFO  ProgramClient: - centerX 159.0
+2021-05-14 09:34:14 INFO  ProgramClient: - centerY 5.0
+2021-05-14 09:34:14 INFO  ProgramClient: - xRadius 103.0
+2021-05-14 09:34:14 INFO  ProgramClient: - yRadius 16.0
+2021-05-14 09:34:15 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:15 INFO  ProgramClient: - centerX 124.0
+2021-05-14 09:34:15 INFO  ProgramClient: - centerY -7.0
+2021-05-14 09:34:15 INFO  ProgramClient: - xRadius 152.0
+2021-05-14 09:34:15 INFO  ProgramClient: - yRadius 26.0
+2021-05-14 09:34:16 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:16 INFO  ProgramClient: - centerX -7.0
+2021-05-14 09:34:16 INFO  ProgramClient: - centerY -7.0
+2021-05-14 09:34:16 INFO  ProgramClient: - xRadius 68.0
+2021-05-14 09:34:16 INFO  ProgramClient: - yRadius 15.0
+2021-05-14 09:34:18 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:18 INFO  ProgramClient: - centerX 3.0
+2021-05-14 09:34:18 INFO  ProgramClient: - centerY -2.0
+2021-05-14 09:34:18 INFO  ProgramClient: - xRadius 106.0
+2021-05-14 09:34:18 INFO  ProgramClient: - yRadius 22.0
+2021-05-14 09:34:20 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:20 INFO  ProgramClient: - centerX 311.0
+2021-05-14 09:34:20 INFO  ProgramClient: - centerY -15.0
+2021-05-14 09:34:20 INFO  ProgramClient: - xRadius 139.0
+2021-05-14 09:34:20 INFO  ProgramClient: - yRadius 36.0
+2021-05-14 09:34:21 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:21 INFO  ProgramClient: - centerX 373.0
+2021-05-14 09:34:21 INFO  ProgramClient: - centerY -7.0
+2021-05-14 09:34:21 INFO  ProgramClient: - xRadius 120.0
+2021-05-14 09:34:21 INFO  ProgramClient: - yRadius 64.0
+2021-05-14 09:34:21 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:21 INFO  ProgramClient: - centerX 443.0
+2021-05-14 09:34:21 INFO  ProgramClient: - centerY 0.0
+2021-05-14 09:34:21 INFO  ProgramClient: - xRadius 55.0
+2021-05-14 09:34:21 INFO  ProgramClient: - yRadius 40.0
+2021-05-14 09:34:22 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:22 INFO  ProgramClient: - centerX 462.0
+2021-05-14 09:34:22 INFO  ProgramClient: - centerY -12.0
+2021-05-14 09:34:22 INFO  ProgramClient: - xRadius 81.0
+2021-05-14 09:34:22 INFO  ProgramClient: - yRadius 37.0
+2021-05-14 09:34:22 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:22 INFO  ProgramClient: - centerX 457.0
+2021-05-14 09:34:22 INFO  ProgramClient: - centerY -15.0
+2021-05-14 09:34:22 INFO  ProgramClient: - xRadius 104.0
+2021-05-14 09:34:22 INFO  ProgramClient: - yRadius 43.0
+2021-05-14 09:34:23 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:23 INFO  ProgramClient: - centerX 497.0
+2021-05-14 09:34:23 INFO  ProgramClient: - centerY -2.0
+2021-05-14 09:34:23 INFO  ProgramClient: - xRadius 92.0
+2021-05-14 09:34:23 INFO  ProgramClient: - yRadius 21.0
+2021-05-14 09:34:23 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:23 INFO  ProgramClient: - centerX 525.0
+2021-05-14 09:34:23 INFO  ProgramClient: - centerY -1.0
+2021-05-14 09:34:23 INFO  ProgramClient: - xRadius 101.0
+2021-05-14 09:34:23 INFO  ProgramClient: - yRadius 26.0
+2021-05-14 09:34:23 INFO  ProgramClient: - Ellipse
+2021-05-14 09:34:23 INFO  ProgramClient: - centerX 552.0
+2021-05-14 09:34:23 INFO  ProgramClient: - centerY -18.0
+2021-05-14 09:34:23 INFO  ProgramClient: - xRadius 77.0
+2021-05-14 09:34:23 INFO  ProgramClient: - yRadius 44.0
+2021-05-16 16:29:59 INFO  Program: - Server is started
+2021-05-16 16:31:44 INFO  Program: - Received 1 client request
+2021-05-16 16:31:44 INFO  Program: - Rect
+2021-05-16 16:31:44 INFO  Program: - x 32.0
+2021-05-16 16:31:44 INFO  Program: - y 9.0
+2021-05-16 16:31:44 INFO  Program: - width 549.0
+2021-05-16 16:31:44 INFO  Program: - height 270.0
+2021-05-16 16:31:44 INFO  Program: - Rect
+2021-05-16 16:31:44 INFO  Program: - x 206.0
+2021-05-16 16:31:44 INFO  Program: - y 86.0
+2021-05-16 16:31:44 INFO  Program: - width 427.0
+2021-05-16 16:31:44 INFO  Program: - height 228.0
+2021-05-16 16:31:44 INFO  Program: - Ellipse
+2021-05-16 16:31:44 INFO  Program: - centerX 101.0
+2021-05-16 16:31:44 INFO  Program: - centerY 43.0
+2021-05-16 16:31:44 INFO  Program: - xRadius 239.0
+2021-05-16 16:31:44 INFO  Program: - yRadius 132.0
+2021-05-16 16:31:44 INFO  Program: - Line
+2021-05-16 16:31:44 INFO  Program: - x1 123.0
+2021-05-16 16:31:44 INFO  Program: - y1 225.0
+2021-05-16 16:31:44 INFO  Program: - x2 457.0
+2021-05-16 16:31:44 INFO  Program: - y2 234.0
+2021-05-16 16:32:00 INFO  Program: - Received 2 client request
+2021-05-16 16:32:00 INFO  Program: - Ellipse
+2021-05-16 16:32:00 INFO  Program: - centerX 96.0
+2021-05-16 16:32:00 INFO  Program: - centerY 68.0
+2021-05-16 16:32:00 INFO  Program: - xRadius 59.0
+2021-05-16 16:32:00 INFO  Program: - yRadius 59.0

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onKeyPressed="#keyPressed" onKeyReleased="#unsetPerfect" prefHeight="400.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.utilities.Controller">
+   <children>
+      <ToolBar layoutY="-1.0" nodeOrientation="LEFT_TO_RIGHT" prefHeight="48.0" prefWidth="700.0">
+        <items>
+            <Pane prefHeight="15.0" prefWidth="366.0">
+               <children>
+                <Button fx:id="rect" layoutX="14.0" layoutY="7.0" mnemonicParsing="false" onAction="#rectangleButton" text="Rectangle" />
+                  <Button fx:id="circ" layoutX="92.0" layoutY="7.0" mnemonicParsing="false" onAction="#circleButton" text="Circle" />
+                  <Button fx:id="lin" layoutX="146.0" layoutY="7.0" mnemonicParsing="false" onAction="#lineButton" text="Line" />
+                  <Button fx:id="er" layoutX="197.0" layoutY="7.0" mnemonicParsing="false" onAction="#eraserButton" text="Eraser" />
+                  <ColorPicker fx:id="color_picker" layoutX="258.0" layoutY="6.0" nodeOrientation="LEFT_TO_RIGHT" prefHeight="26.0" prefWidth="97.0" />
+               </children>
+            </Pane>
+            <Pane prefHeight="12.0" prefWidth="306.0">
+               <children>
+                  <Button alignment="CENTER_RIGHT" contentDisplay="TOP" defaultButton="true" layoutX="249.0" layoutY="7.0" mnemonicParsing="false" onAction="#saveCanvas" prefHeight="25.0" prefWidth="57.0" text="Save As" />
+                  <Button layoutX="196.0" layoutY="7.0" mnemonicParsing="false" onAction="#openCanvas" text="Open" />
+               </children></Pane>
+        </items>
+      </ToolBar>
+      <Canvas fx:id="canvas_field" height="353.0" layoutX="7.0" layoutY="47.0" onMousePressed="#setFirstPoint" onMouseReleased="#setSecondPoint" width="686.0" />
+      <Label fx:id="label_current_tool" layoutX="7.0" layoutY="377.0" />
+   </children>
+</AnchorPane>
